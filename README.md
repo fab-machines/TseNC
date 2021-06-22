@@ -8,16 +8,18 @@ TseNC specifications
 --
 
 - working area: 600x370x145mm Y-X-Z (400mm on X with no side protection)
-- frame: solid aluminum plates of 6/8/ bolted
+- frame: solid aluminum plates of 6/8/12/20mm bolted
 - Bed: aluminum nut profiled Nut 8
+- actuators: 16mm ballscrews on X and Y, 12mm ballscrew on Z
+- linear guides: Hiwin HGR15
 - maximum speed: 4000mm/min
 - mechanical resolution: 0.003125mm
-- spindle: Mafell MF1000
+- spindle: Mafell FM1000 1Kw
 - firmware: GRBL-LPC
 - controller: LPC1768 32bit
 - motors: NEMA 24 4MN
 - motor controllers: 3 x DM556
-- compatible collets: 3,4,5,6,8mm / 1/8 and 1/4
+- compatible collets: 3/4/5/6/8mm 1/8 and 1/4
 - quick spindle release
 - Z zero sensor
 - Inductive endstops with softlimits
