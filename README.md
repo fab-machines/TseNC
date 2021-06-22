@@ -1,7 +1,7 @@
 <div align="center"><h1 style=align="center">TseNC</h1></div>
 
 <div align="center"><img src="media/tsenc.jpg" width="100%"></div>
-<div align="center"><i>Open Source Large Scale 3D Printer</i></div>
+<div align="center"><i>Open Source CNC Milling Machine</i></div>
 
 
 TseNC specifications
