@@ -22,8 +22,8 @@ TseNC specifications
 - compatible collets: 3/4/5/6/8mm 1/8 and 1/4
 - quick spindle release
 - Z zero sensor
-- Inductive endstops with softlimits
-- Side procection of 6mm POM
+- inductive endstops with softlimits
+- side procection of 6mm POM
 - emergency button with fuse protection
 
 
